@@ -25,15 +25,6 @@ This project is beginner-friendly and helps in understanding basic JavaScript co
 
 ---
 
-# 📸 Project Preview
-
-<img width="100%" alt="Project Preview" src="YOUR_SCREENSHOT_LINK_HERE">
-
-> Replace `<https://photos.app.goo.gl/TQrKHn4SuxEhBvEL8/>
-` with your actual project screenshot after uploading image to GitHub.
-
----
-
 # 🚀 Features
 
 ## ✅ Random Number Generation
