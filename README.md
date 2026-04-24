@@ -29,7 +29,8 @@ This project is beginner-friendly and helps in understanding basic JavaScript co
 
 <img width="100%" alt="Project Preview" src="YOUR_SCREENSHOT_LINK_HERE">
 
-> Replace `YOUR_SCREENSHOT_LINK_HERE` with your actual project screenshot after uploading image to GitHub.
+> Replace `<img width="1270" height="751" alt="Screenshot 2026-04-24 132859" src="https://github.com/user-attachments/assets/196c5ed2-4a57-4ecc-bf7b-d5e6b2b4849d" />
+` with your actual project screenshot after uploading image to GitHub.
 
 ---
 
