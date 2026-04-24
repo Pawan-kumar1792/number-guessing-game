@@ -29,7 +29,7 @@ This project is beginner-friendly and helps in understanding basic JavaScript co
 
 <img width="100%" alt="Project Preview" src="YOUR_SCREENSHOT_LINK_HERE">
 
-> Replace `<https://kommodo.ai/i/m0JbZKkSb8gRYjGBTBmw/>
+> Replace `<https://kommodo.ai/i/m0JbZKkSb8gRYjGBTBmw>
 ` with your actual project screenshot after uploading image to GitHub.
 
 ---
