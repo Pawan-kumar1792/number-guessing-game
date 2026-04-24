@@ -1,0 +1,99 @@
+:root {
+    --bg: #0f172a;
+    --card: #0b1220;
+    --accent: #60a5fa;
+    --muted: #94a3b8;
+    --success: #10b981;
+    --danger: #f97373;
+    --glass: rgba(255,255,255,0.04);
+}
+
+* {
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    margin: 0;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: var(--bg);
+    color: white;
+    padding: 20px;
+}
+
+.card {
+    width: 100%;
+    max-width: 700px;
+    background: var(--card);
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.4);
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.controls {
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+input {
+    width: 150px;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    background: var(--glass);
+    color: white;
+}
+
+button {
+    padding: 10px 15px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: bold;
+    background: var(--accent);
+}
+
+.secondary {
+    background: transparent;
+    border: 1px solid #ffffff30;
+    color: var(--muted);
+}
+
+.status {
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+.meta {
+    margin-top: 20px;
+}
+
+.guesses-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 10px;
+}
+
+.guesses-list div {
+    padding: 8px 12px;
+    border-radius: 20px;
+    background: #ffffff10;
+}
+
+.footer {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    color: var(--muted);
+}
