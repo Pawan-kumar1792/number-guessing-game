@@ -160,7 +160,7 @@ This is the main brain of the project.
 Download or Clone this repository
 
 ```bash
-git clone [https://github.com/Pawan-kumar1792] /number-guessing-game.git
+git clone https://github.com/Pawan-kumar1792/number-guessing-game.git
 ```
 
 ---
